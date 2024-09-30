@@ -1,0 +1,1 @@
+Simple Calculator-: This is a calculator application provides basic arithmetic operations with a clean and user-friendly interface. It is developed as part of an internship project and I used HTML5, CSS3 and JavaScript.
